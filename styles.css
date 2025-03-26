@@ -67,3 +67,11 @@ align-items: center;
     height:150px;
     }
 
+.recipe title {
+    color: red;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}

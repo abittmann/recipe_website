@@ -49,3 +49,11 @@ head > img {
  border-radius: 5pc;
 
 }
+.recipe title {
+    color: red;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}

@@ -49,3 +49,21 @@ head > img {
  border-radius: 5pc;
 
 }
+
+.veg{
+width: 150px;
+height:150px;
+padding: 100px;
+}
+
+#container{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.veg img{
+    width: 150px;
+    height:150px;
+    }
+

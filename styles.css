@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box
+
+}
+
+body {
+   
+    font-family: sans-serif; 
+    /* how to get 'Itim */
+    margin: 0 auto;
+    background-color: #6AA268;
+    color: black;  
+}
+
+#navbar{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1500px;
+    font-size: 30px;
+    color: black;
+    position: fixed;
+    top: 0;
+}
+
+nav a {
+    padding: 14px 16px;
+    color: black;
+}
+
+head > img {
+    width: 50%;
+    margin: 20px;
+  padding: 1px;
+  
+
+}
+
+#form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+#query{
+ width: 600px;
+ height: 40px;
+ border-radius: 5pc;
+
+}
